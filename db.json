@@ -1,0 +1,66 @@
+{"breweries":
+[
+    {
+        "id": 1,
+        "name": "Joyride Brewing",
+        "image": "https://popmenucloud.com/cdn-cgi/image/width=1920,height=1920,format=auto,fit=scale-down/pikevxwf/4dce3f68-1a99-47db-a507-621f6b956c6e.jpg",
+        "city": "Denver",
+        "state": "Colorado",
+        "website": "https://www.joyridebrewing.com/",
+        "cheers": 0
+    },
+    {
+        "id": 2,
+        "name": "Trimtab Brewing Company",
+        "image": "https://static.wixstatic.com/media/d4ad6a_57f170f6d991426fa61d47ab718e58f8~mv2.jpg/v1/fill/w_1200,h_900,al_c/d4ad6a_57f170f6d991426fa61d47ab718e58f8~mv2.jpg",
+        "city": "Birmingham",
+        "state": "Alabama",
+        "website": "https://www.trimtabbrewing.com/",
+        "cheers": 0
+    },
+    {
+        "id": 3,
+        "name": "Hi-Wire Brewing",
+        "image": "http://wlos.com/resources/media/13ea248b-80a3-4812-93c3-6eaeb976e4c8-large16x9_IMG_4025.JPG?1551830580459",
+        "city": "Asheville",
+        "state": "North Carolina",
+        "webiste": "https://hiwirebrewing.com/",
+        "cheers": 0   
+    },
+    {
+        "id": 4,
+        "name": "Cabin Boys Brewery",
+        "image": "https://images.squarespace-cdn.com/content/v1/59dce891a803bb064a23d40d/0dbe8645-72b7-4713-963d-9d6186b3671c/IMG_1506+%281%29.jpg",
+        "city": "Tulsa",
+        "state": "Oklahoma",
+        "webstite": "https://www.cabinboysbrewery.com/",
+        "cheers": 0   
+    },
+    {
+        "id": 5,
+        "name": "Lost Forty Brewing",
+        "image": "https://talkbusiness.net/wp-content/uploads/2020/12/lost-40-1.jpg",
+        "city": "Little Rock",
+        "state": "Arkansas",
+        "webstite": "https://www.lost40brewing.com/",
+        "cheers": 0   
+    },
+    {
+        "id": 6,
+        "name": "Oddstory Brewing Co.",
+        "image": "https://images.squarespace-cdn.com/content/v1/5aa3fda0b98a7877c7419f76/1564348268967-9WW4ZVI67IU3UJHQLQJE/SUNKEN-WEB1.png",
+        "city": "Chattanooga",
+        "state": "Tennessee",
+        "webstite": "https://www.oddstorybrewing.co/",
+        "cheers": 0   
+    },
+    {
+        "id": 7,
+        "name": "Hopping Gnome Brewing",
+        "image": "https://images.squarespace-cdn.com/content/v1/5866ed881b631bf419fd5898/1559789344437-YGWBBZG9T5MO522DVONM/DSC_1611-Edit-2.jpg?format=2500w",
+        "city": "Wichita",
+        "state": "Kansas",
+        "webstite": "https://www.hoppinggnome.com/",
+        "cheers": 0   
+    }
+]}
