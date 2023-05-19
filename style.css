@@ -16,14 +16,54 @@
     justify-content: center;
 }
 
-.beer-card{
+.brewery-card{
     width: 25%;
     box-sizing: border-box;
     margin: 25px;
+    border-style: solid;
+    border-color: midnightblue;
+    border-width: 5px;
+    padding: 10px;
+    background-color: lemonchiffon;
 } 
 
 .brewery-image{
     width: 200px;
     height: 200px;
     object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
 }
+
+.brewery-card h2{
+    text-align: center;
+    margin: 10px;
+}
+
+.brewery-card h4{
+    text-align: center;
+    margin: 10px;
+}
+
+.circle {
+    /* width: 125px;
+    height: 125px;
+    line-height: 125px;
+    border-radius: 50%; */
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    background: midnightblue;
+    padding-bottom: 10px;
+  }
+
+  .brewery-form { 
+    margin-left: 60px;
+    margin-top: 30px;
+    text-align: center;
+  }
+
+
+

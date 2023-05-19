@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,8 +10,45 @@
  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Brewery Finder</h1>
+  <h1 class="circle">Brewery Finder</h1>
   <div class="app">
+
+    <div>
+      <form class="brewery-form">
+        <h3>Add a Brewery!</h3>
+
+        <input
+          type="text"
+          name="name"
+          value=""
+          placeholder="Brewery name..."
+          class="input-text"
+        />
+        <br />
+        <input
+          type="text"
+          name="image"
+          value=""
+          placeholder="Brewery image URL..."
+          class="input-text"
+        />
+        <br />
+        <input
+        type="text"
+        name="location"
+        value=""
+        placeholder="Brewery location..."
+        class="input-text"
+      />
+      <br />
+        <input
+          type="submit"
+          name="submit"
+          value="Add Brewery!"
+          class="submit"
+        />
+      </form>
+    </div>
   <div id="beer-container">
 
   </div>
